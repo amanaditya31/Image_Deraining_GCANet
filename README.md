@@ -1,2 +1,3 @@
-# single_image_deraining
-removes all rain in image to increase other image processing piplines easier time processing images
+# Image_Deraining_GCANet
+Performs image processing to remove rain streaks enhancing the image for other image processing pipelines.
+
